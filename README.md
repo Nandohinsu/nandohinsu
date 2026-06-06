@@ -1,8 +1,21 @@
+````md
+<div align="center">
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED...;Initializing+system...;Welcome+back,+developer." /> <br><br> <img src="https://github-readme-stats.vercel.app/api?username=nandohinsu&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandohinsu&layout=compact&theme=chartreuse-dark&hide_border=true"/> </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED...;Initializing+system...;Welcome+back,+developer." />
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandohinsu&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandohinsu&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
 # 💻 About Me
 
-```bash id="o3f9f2"
+```bash
 > ACCESS GRANTED...
 > Initializing system...
 > Welcome back, developer.
@@ -11,9 +24,7 @@
 > Apaixonado por tecnologia, design e automação
 > Criando interfaces modernas e experiências únicas
 > Sempre aprendendo algo novo...
-```
-
-</div>
+````
 
 ---
 
@@ -42,7 +53,8 @@
 ## 🌐 Contato
 
 <p align="left">
-  <a href="https://github.com/SEUUSUARIO">
+  <a href="https://github.com/nandohinsu">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+```

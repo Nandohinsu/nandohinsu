@@ -4,8 +4,6 @@
 
 ```bash
 > ACCESS GRANTED...
-> Initializing system...
-> Welcome back, developer.
 
 > Desenvolvedor focado em Front-End & Sistemas
 > Apaixonado por tecnologia, design e automação

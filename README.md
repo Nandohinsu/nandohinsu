@@ -2,7 +2,7 @@
 <div align="center">
 
 <div align="center">
-# 💻 Jogos de Ação
+# 💻 About me
 
 ```bash
 > ACCESS GRANTED...

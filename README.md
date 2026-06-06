@@ -1,5 +1,5 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED...;Initializing+system...;Welcome+back,+developer." /> <br><br> <img src="https://github-readme-stats.vercel.app/api?username=Nandohinsu&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandohinsu&layout=compact&theme=chartreuse-dark&hide_border=true"/> </div>
-<img src="https://github.com/Nandohinsu/Nandohinsu/blob/output/github-contribution-grid-snake-dark.svg">
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED...;Initializing+system...;Welcome+back,+developer." /> <br><br>  </div>
+
 # 💻 About Me
 
 ```bash

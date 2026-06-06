@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED...;Initializing+system...;Welcome+back,+developer." /> <br><br> <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=chartreuse-dark&hide_border=true"/> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED...;Initializing+system...;Welcome+back,+developer." /> <br><br> <img src="https://github-readme-stats.vercel.app/api?username=nandohinsu&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandohinsu&layout=compact&theme=chartreuse-dark&hide_border=true"/> </div>
 # 💻 About Me
 
 ```bash id="o3f9f2"

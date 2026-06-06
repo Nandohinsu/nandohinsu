@@ -2,10 +2,9 @@
 <div align="center">
 
 <div align="center">
+# 💻 Jogos de Ação
 
-# 💻 Ação Games
-
-```ascii
+```bash
 > ACCESS GRANTED...
 > Initializing system...
 > Welcome back, developer.
@@ -13,7 +12,9 @@
 > Apaixonado por tecnologia, design e automação
 > Criando interfaces modernas e experiências únicas
 > Sempre aprendendo algo novo...
-⚡  Linguagens
+```
+
+## ⚡ Linguagens
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
@@ -22,7 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px"/>
 </p>
 
-🛠 Ferramentas
+---
+
+## 🛠 Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>

@@ -1,13 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=229a00&width=435&lines=Linguagem+%C3%A9+s%C3%B3+ferramenta)](https://git.io/typing-svg)
-<div align="center">
-
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=229A00\&width=435\&lines=Linguagem+%C3%A9+s%C3%B3+ferramenta)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=229A00\&width=435\&lines=Linguagem+é+só+ferramenta)](https://git.io/typing-svg)
 
 <div align="center">
 
 # 💻 About Me
 
-```bash
+```bash id="o3f9f2"
 > ACCESS GRANTED...
 > Initializing system...
 > Welcome back, developer.
@@ -51,4 +48,3 @@
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-

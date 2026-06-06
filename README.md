@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=229A00\&width=435\&lines=Linguagem+é+só+ferramenta)](https://git.io/typing-svg)
 
 <div align="center">
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=root%40actiongames%3A~%24+access;Injecting+scripts...;Bypassing+firewall...;System+Online.;Welcome+to+my+GitHub." /> </p>
 # 💻 About Me
 
 ```bash id="o3f9f2"

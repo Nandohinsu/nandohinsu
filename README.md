@@ -38,8 +38,8 @@
 ## 🌐 Contato
 
 <p align="left">
-  <a href="https://github.com/nandohinsu">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://t.me/nandohinsu">
+   <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 ```
